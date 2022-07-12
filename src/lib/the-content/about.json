@@ -1,0 +1,25 @@
+{
+    "title": "About: Borja Landscaping & Construction Inc.",
+    "description": "We offer a wide range of landscaping and construction services to create beautiful and comfortable atmosphere at your HOME. Our experts work with care and attention.",
+    "keywords": "landscape, landscaping, tree service near me, landscaping ideas, landscaping near me, landscaping ideas, landscape design, landscapers near me, landscape edging, landscaping companies near me",
+    "og_image": "/jpeg/borja-landscaping-og-image-1440x800.jpeg",
+    "site_url": "borjalandscapingconstruction.com",
+    "postAbout": {
+        "headline": "About Us",
+        "paragraph": "Borja Landscaping & Construction Inc. is a full-service company providing design, installation, construction and maintenance throughout Long Island, New  york. <br><br> Our expert staff have the knowledge it takes to build the perfect landscape, transform and mantain your garden ideas that fits your property budget through all four seasons by reliable experts.",
+        "image": {
+            "src": "/jpeg/about/borja-landscaping-truck.jpeg",
+            "alt": "services-borja-landscaping"
+        }
+    },
+    "postGrid": [
+        {
+            "src": "/jpeg/home-page/grid-images/construction-borja-landscaping.jpeg",
+            "alt": "construction-borja-landscaping"
+        },
+        {
+            "src": "/jpeg/home-page/grid-images/lnadscaping-borja-landscaping.jpeg",
+            "alt": "lnadscaping-borja-landscaping"
+        }
+    ]
+}

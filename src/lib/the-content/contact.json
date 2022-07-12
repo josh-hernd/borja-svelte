@@ -1,0 +1,86 @@
+{
+    "title": "Borja Landscaping & Construction Inc.",
+    "description": "We offer a wide range of landscaping and construction services to create beautiful and comfortable atmosphere at your HOME. Our experts work with care and attention.",
+    "keywords": "landscape, landscaping, tree service near me, landscaping ideas, landscaping near me, landscaping ideas, landscape design, landscapers near me, landscape edging, landscaping companies near me",
+    "og_image": "/jpeg/borja-landscaping-og-image-1440x800.jpeg",
+    "site_url": "borjalandscapingconstruction.com",
+    "full_sec": {
+        "logo": {
+            "src": "/svg/logo.svg",
+            "alt": "Borja Landscaping & Construction Inc Logo"
+        },
+        "title": "Complete Home Care",
+        "background_img": "/jpeg/home-page/background-1440x603.jpeg"
+    },
+    "postIntro": {
+        "headline": "Contact Us"
+    },
+    "useForm": [
+        {
+            "label": "Your Name",
+            "type": "text",
+            "name": "clientName",
+            "id": "name",
+            "placehold": "John Doe"
+        },
+        {
+            "label": "Subject",
+            "type": "text",
+            "name": "subject",
+            "id": "subj",
+            "placehold": "Pool Patios"
+        },
+        {
+            "label": "Email",
+            "type": "email",
+            "name": "email",
+            "id": "email",
+            "placehold": "john@doe.com"
+        },
+        {
+            "label": "Phone",
+            "type": "tel",
+            "name": "phone",
+            "id": "phone",
+            "placehold": "+23456789"
+        },
+        {
+            "label": "Comments",
+            "type": null,
+            "name": "comments",
+            "id": "comment",
+            "placehold": "Contact me by phone..."
+        }
+    ],
+    "info": [
+        {
+            "href": "tel:+5163079681",
+            "title": "Tel: 516-307-9681",
+            "target": false
+        },
+        {
+            "href": "/contact",
+            "title": "Address: 159 W Marshall St, Hempstead, NY 11550",
+            "target": true
+        },
+        {
+            "href": "mailto:borjalandscapingc@gmail.com",
+            "title": "Email: borjalandscapingc@gmail.com",
+            "target": false
+        }
+    ],
+    "socialMedia": [
+        {
+            "channel": {
+                "ref": "https://www.facebook.com/Borja-Landscaping-Construction-1958375957744838",
+                "icon": "fab fa-facebook white_t"
+            }
+        },
+        {
+            "channel": {
+                "ref": "https://www.facebook.com/Borja-Landscaping-Construction-1958375957744838",
+                "icon": "fab fa-instagram white_t"
+            }
+        }
+    ]
+}

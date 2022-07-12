@@ -1,0 +1,5 @@
+// dynamic breakpoints requires two arguments min and max. It's default is all
+@mixin dynamicPoints($min: all, $max: all)
+    @media ( min-width: $min ) and (max-width: $max)
+        @content
+    

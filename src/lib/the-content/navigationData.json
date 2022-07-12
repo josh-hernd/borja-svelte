@@ -1,0 +1,92 @@
+{
+    "header": [
+        {
+            "id": 1,
+            "label": "Home",
+            "url": "/",
+            "type": "button"
+        },
+        {
+            "id": 2,
+            "label": "About Us",
+            "url": "/about",
+            "type": "button"
+        },
+        {
+            "id": 3,
+            "label": "Services",
+            "url": "/services",
+            "type": "button"
+        },
+        {
+            "id": 4,
+            "label": "Contact Us",
+            "url": "/contact",
+            "type": "button"
+        },
+        {
+            "id": 5,
+            "label": "Call Us Now",
+            "url": "(516)312-0776",
+            "type": "call-button"
+        }
+    ],
+    "postEnd": {
+        "headline": "Trust The Grounds Guys professionals to take care of your commercial or residential grounds",
+        "button": {
+            "url": "tel:+(516)312-0776",
+            "title": "Call Us"
+        },
+        "image": {
+            "src": "/jpeg/home-page/services-borja-landscaping.jpeg",
+            "alt": "services-borja-landscaping"
+        }
+    },
+    "footer": {
+        "logo": {
+            "src": "/svg/logo.svg",
+            "url": "/",
+            "alt": "Svg Logo"
+        },
+        "items": [
+            {
+                "id": 1,
+                "label": "Home",
+                "url": "/",
+                "type": "button"
+            },
+            {
+                "id": 2,
+                "label": "About Us",
+                "url": "/about",
+                "type": "button"
+            },
+            {
+                "id": 3,
+                "label": "Services",
+                "url": "/services",
+                "type": "button"
+            },
+            {
+                "id": 4,
+                "label": "Contact Us",
+                "url": "/contact",
+                "type": "button"
+            }
+        ],
+        "socialMedia": [
+            {
+                "channel": {
+                    "ref": "https://www.facebook.com/Borja-Landscaping-Construction-1958375957744838",
+                    "icon": "fab fa-facebook white_t"
+                }
+            },
+            {
+                "channel": {
+                    "ref": "https://www.facebook.com/Borja-Landscaping-Construction-1958375957744838",
+                    "icon": "fab fa-instagram white_t"
+                }
+            }
+        ]
+    }
+}

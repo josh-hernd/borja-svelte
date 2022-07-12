@@ -1,0 +1,69 @@
+{
+    "title": "Services: Borja Landscaping & Construction Inc.",
+    "description": "We offer a wide range of landscaping and construction services to create beautiful and comfortable atmosphere at your HOME. Our experts work with care and attention.",
+    "keywords": "landscape, landscaping, tree service near me, landscaping ideas, landscaping near me, landscaping ideas, landscape design, landscapers near me, landscape edging, landscaping companies near me",
+    "og_image": "/jpeg/borja-landscaping-og-image-1440x800.jpeg",
+    "site_url": "borjalandscapingconstruction.com",
+    "postIntro": {
+        "headline": "Our Services"
+    },
+    "postService": [
+        {
+            "headline": "Landscaping",
+            "paragraph": "Check the whole list of landscaping and concrete work services we offer",
+            "styleBground": "#E5E5E5",
+            "services": [
+                "Mulch",
+                "Pruning",
+                "Weekly * Bi-Weekly <br> Monthly Maintenance",
+                "Bushes Removal",
+                "Spring & Fall Clean-Up",
+                "Snow Removal"
+            ],
+            "image": {
+                "src": "/jpeg/home-page/grid-images/lnadscaping-borja-landscaping.jpeg",
+                "alt": "lnadscaping-borja-landscaping"
+            }
+        },
+        {
+            "headline": "Construction",
+            "paragraph": "Check the whole list of landscaping and concrete work services we offer",
+            "styleBground": "#C61010",
+            "services": [
+                "Pool Patios",
+                "Patios",
+                "Walkways",
+                "Driveways",
+                "Walls",
+                "All type of concrete work"
+            ],
+            "image": {
+                "src": "/jpeg/services/patio-projects-borja-nicolock.jpeg",
+                "alt": "services-borja-landscaping"
+            }
+        }
+
+    ],
+    "projects": {
+        "headline": "Our Projects",
+        "paragraph": "We are proud to show you our projects that were made with all our skills and professionalism."
+    },
+    "postGrid": [
+        {
+            "src": "/jpeg/services/grid/image-1.jpeg",
+            "alt": "construction-borja-landscaping"
+        },
+        {
+            "src": "/jpeg/services/grid/image-2.jpeg",
+            "alt": "construction-borja-landscaping"
+        },
+        {
+            "src": "/jpeg/services/grid/image-3.jpeg",
+            "alt": "construction-borja-landscaping"
+        },
+        {
+            "src": "/jpeg/services/grid/image-4.jpeg",
+            "alt": "construction-borja-landscaping"
+        }
+    ]
+}

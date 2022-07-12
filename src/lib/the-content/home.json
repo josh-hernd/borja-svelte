@@ -1,0 +1,84 @@
+{
+    "title": "Borja Landscaping & Construction Inc.",
+    "description": "We offer a wide range of landscaping and construction services to create beautiful and comfortable atmosphere at your HOME. Our experts work with care and attention.",
+    "keywords": "landscape, landscaping, tree service near me, landscaping ideas, landscaping near me, landscaping ideas, landscape design, landscapers near me, landscape edging, landscaping companies near me",
+    "og_image": "/jpeg/borja-landscaping-og-image-1440x800.jpeg",
+    "site_url": "borjalandscapingconstruction.com",
+    "full_sec": {
+        "logo": {
+            "src": "/svg/logo.svg",
+            "alt": "Borja Landscaping & Construction Inc Logo"
+        },
+        "title": "Complete Home Care",
+        "background_img": "/jpeg/home-page/background-1440x603.jpeg"
+    },
+    "postIntro": {
+        "headline": "Welcome to Borja Landscaping and Construction Inc.",
+        "paragraph": "We offer a wide range of landscaping and construction services to create beautiful and comfortable atmosphere at your home. Our experts work with care and attention."
+    },
+    "postBlurbs":{
+        "headline": "What We Do?",
+        "blurbs": [
+            {
+                "icon": "/jpeg/home-page/icons/lawn-care-icon-60x60.svg",
+                "title": "Lawn Care",
+                "paragraph": "We provide Customized Services For Your Lawn's Grass Type & Condition."
+            },
+            {
+                "icon": "/jpeg/home-page/icons/concrete-work-icon-60x60.svg",
+                "title": "Concrete Work",
+                "paragraph": "We offer high-quality concrete & masonry services for all your needs."
+            },            
+            {
+                "icon": "/jpeg/home-page/icons/snow-removal-icon-60x60.svg",
+                "title": "Snow Removal",
+                "paragraph": " Snow Removal & Salting Services for Commercial and residential properties."
+            }
+        ]
+    },
+    "postService": {
+        "headline": "Services",
+        "paragraph": "Check the whole list of landscaping and concrete work services we offer",
+        "services": ["Lawn Maintenance", "Pruning", "Bushes Removal", "Spring & Fall Clean-Up", "Snow Removal", "All Types Of Concrete Work"],
+        "button": {
+            "url": "/services",
+            "title": "See more"
+        },
+        "image": {
+            "src": "/jpeg/home-page/services-borja-landscaping.jpeg",
+            "alt": "services-borja-landscaping"
+        }
+    },
+    "postArg": {
+        "headline": "Why Choose Borja Landscaping",
+        "reasons": [
+            {
+                "label": "Experience",
+                "icon": "/jpeg/home-page/icons/experience-icon-19x26.svg"
+            },
+            {
+                "label": "Job Guarantee",
+                "icon": "/jpeg/home-page/icons/job-guarantee-icon-19x26.svg"
+            },
+            {
+                "label": "Lic & Ins",
+                "icon": "/jpeg/home-page/icons/lic-ins-icon-19x26.svg"
+            }
+        ],
+        "paragraph": "We'll build the perfect landscape, transform and mantain your garden ideas that fits your property budget through all four seasons by reliable experts.",
+        "button": {
+            "title": "See More",
+            "url": "/services"
+        }
+    },
+    "postGrid": [
+        {
+            "src": "/jpeg/home-page/grid-images/construction-borja-landscaping.jpeg",
+            "alt": "construction-borja-landscaping"
+        },
+        {
+            "src": "/jpeg/home-page/grid-images/lnadscaping-borja-landscaping.jpeg",
+            "alt": "lnadscaping-borja-landscaping"
+        }
+    ]
+}
